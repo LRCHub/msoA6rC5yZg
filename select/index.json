@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "サクラメント",
+  "base_artist": "wotaku",
+  "createdAt": "2025-12-02T11:24:43.618829Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サクラメント",
+      "artist": "wotaku",
+      "has_synced": false,
+      "path": "select/pl_01_サクラメント_wotaku.txt"
+    }
+  ]
+}
