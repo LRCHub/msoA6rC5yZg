@@ -1,0 +1,38 @@
+# wotaku – サクラメント
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+母に血を落とし我が身は
+名誉のため燃やすと誓おう
+洗礼の日に初めてを
+Errare humanum est
+罪深き我々の目にこそ
+主の御業は写るだろう
+改悛の秘蹟のもとに
+Abyssus abyssum invocat
+祈り労う隣人に
+慈愛と奇蹟を与え賜う
+呪詛の成就に手を貸そう
+Amat victoria curam
+煌々たる光の背に
+黒滔々たる影は成そう
+御手に忠義の口づけを
+Amicitia reddit honores
+Kyrie eleison
+Salutis supplicium
+アニュス・デイが隠した
+罰の定義外れた
+アエーシュマの説くドグマ
+抗えばコキュートスだ
+アンラマン孕んだ産は何ら癌や難は
+無い
+サンタマリア
+暗澹から鑑みたが安見なす
+曼荼羅に畳んだ札
+掴んだ手に油断は無い
+病んだ体は完治
+安息の地シャンバラ
+Kyrie eleison
+Salutis supplicium
+```
